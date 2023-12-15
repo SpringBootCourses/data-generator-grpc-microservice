@@ -16,6 +16,7 @@ All insignificant features (checkstyle, build check, dto validation) are not pre
 #### Example:
 ```agsl
 GRPC_HOST=localhost:8980
+BATCH_SIZE=3
 ```
 
 Application has two endpoints:
